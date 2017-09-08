@@ -1,2 +1,2 @@
-# poked
+# pokedex
 Awesome Pokedex App!!
